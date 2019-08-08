@@ -3,30 +3,30 @@
 
 ## Dependências
 
- [Node.js](https://nodejs.org/)
+	[Node.js](https://nodejs.org/)
  
 
 ## Instalando
 Abra seu CLI preferido (Terminal/CMD/Promp de comando)
 
- Ah, mas eu não sei o que é isso...
+	Ah, mas eu não sei o que é isso...
 
 Vai no menu iniciar (se estiver utilizando Windows) e digita "CMD" e aperte a tecla Enter
 
 No prompt de comando digite
  
- npm i
+	npm i
  
 Espere o fim da instalação e então digite
 
- npm start
+	npm start
 
 ## Realizando o Download dos videos
 
 Para realizar o download é muito simples...
 Ao aparecer no console o seguinte campo "Link do Video:" insira o link do video desejado e tecle Enter
 
- https://www.youtube.com/watch?v=zlshRU106RA
+	https://www.youtube.com/watch?v=zlshRU106RA
  
 A ferramenta irá lhe notificar assim que o download estiver completo =]
 
