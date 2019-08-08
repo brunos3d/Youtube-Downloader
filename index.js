@@ -56,7 +56,7 @@ function notify(msg) {
 	notifier.notify({
 		title: 'Youtube Downloader',
 		message: msg,
-		icon: path.join(__dirname, 'youtube_icon.png')
+		icon: path.join(__dirname, './images/youtube_icon.png')
 	});
 }
 
