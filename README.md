@@ -30,6 +30,4 @@ Ao aparecer no console o seguinte campo "Link do Video:" insira o link do video 
  
 A ferramenta irá lhe notificar assim que o download estiver completo =]
 
-<p align="center">
-	<img height="150" src="images/image1.png">
-</p>
+![image 1](https://github.com/BrunoS3D/Youtube-Downloader/blob/master/images/image01.png)
