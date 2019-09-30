@@ -17,6 +17,7 @@ No prompt de comando digite
  
 	npm i
 
+Isso irá instalar os seguintes pacotes:
 
 ```
 "dependencies": {
