@@ -16,6 +16,16 @@ Vai no menu iniciar (se estiver utilizando Windows) e digita "CMD" e aperte a te
 No prompt de comando digite
  
 	npm i
+
+
+```
+"dependencies": {
+	"node-notifier": "^5.4.1",
+	"nodemon": "^1.19.1",
+	"read-console": "^1.0.3",
+	"ytdl-core": "^0.29.5"
+}
+```
  
 Espere o fim da instalação e então digite
 
