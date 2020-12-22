@@ -10,7 +10,7 @@
 	"author": "Bruno Silva",
 	"license": "MIT",
 	"dependencies": {
-		"node-notifier": "^5.4.1",
+		"node-notifier": "^8.0.1",
 		"nodemon": "^1.19.1",
 		"read-console": "^1.0.3",
 		"ytdl-core": "^0.29.5"
